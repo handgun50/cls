@@ -98,7 +98,7 @@ h6 {
 #header .logo {
   overflow: hidden;
   padding: 16px 30px 12px 30px;
-  background: #0063B2;
+  background: #ffffff;
 }
 
 #header .logo h1 {
@@ -207,7 +207,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #00b383;
+  background: #048CD6;
 }
 
 .navbar .dropdown ul {
