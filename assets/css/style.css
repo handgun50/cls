@@ -98,7 +98,7 @@ h6 {
 #header .logo {
   overflow: hidden;
   padding: 16px 30px 12px 30px;
-  background: #0063B2;
+  background: #004e8c;
 }
 
 #header .logo h1 {
@@ -130,7 +130,7 @@ h6 {
 
   #header.header-scrolled,
   #header .header-container {
-    background: #0063B2;
+    background: #004e8c;
   }
 
   #header .logo {
