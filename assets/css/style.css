@@ -1449,3 +1449,11 @@ section {
   color: #fff;
   text-decoration: none;
 }
+
+.bi-facebook {
+	background: #1877F2 !important;
+}
+
+.bi-whatsapp {
+	background: #25d366 !important;
+}
