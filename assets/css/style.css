@@ -20,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #048CD6;
+  color: #d3ab4b;
   text-decoration: none;
 }
 
@@ -207,7 +207,7 @@ h6 {
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
   color: #fff;
-  background: #048CD6;
+  background: #d3ab4b;
 }
 
 .navbar .dropdown ul {
